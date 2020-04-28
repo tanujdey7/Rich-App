@@ -1,0 +1,4 @@
+# Referenced at D:\flutter\i_am_rich\build\app\intermediates\merged_manifests\release\processReleaseManifest\merged\x86_64\AndroidManifest.xml:22
+-keep class com.example.first_app.MainActivity { <init>(...); }
+# Referenced at D:\flutter\i_am_rich\build\app\intermediates\merged_manifests\release\processReleaseManifest\merged\x86_64\AndroidManifest.xml:17
+-keep class io.flutter.app.FlutterApplication { <init>(...); }
