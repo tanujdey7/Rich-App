@@ -1,4 +1,6 @@
-# i_am_rich
+# Rich App
+
+<img src="https://github.com/tanujdey7/Rich-App/blob/master/rich.png" height='35%' width = '35%'>
 
 A new Flutter project.
 
